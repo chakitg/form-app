@@ -1,0 +1,62 @@
+*{
+    text-align: center;
+}
+
+h1{
+    /* font-size: x-large; */
+    color: green;
+    box-shadow: 1px 1px 20px #c9c9c9;
+    padding: 10px;
+}
+
+h4{
+    margin-left: 165px;
+    margin-bottom: 0px;
+    text-align: left;
+}
+
+.input{
+    height:25px;
+    width: 200px;
+}
+
+.login_container{
+    box-shadow: 5px 5px 20px grey;
+    text-align: center;
+    padding: 50px;
+    width: fit-content;
+    margin: auto;
+}
+
+.login_signin{
+    background-color: green;
+    color: white;
+    height: 30px;
+    width: 100px;
+    font-size: larger;
+    border: none;
+    border-radius: 5px;
+    margin-left: -109px;
+}
+
+.login_register{
+    background-color: green;
+    color: white;
+    height: 30px;
+    width: 200px;
+    font-size: larger;
+    border: none;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.login_logout{
+    background-color: red;
+    color: white;
+    height: 30px;
+    width: 100px;
+    font-size: larger;
+    border: none;
+    border-radius: 5px;
+    
+}
