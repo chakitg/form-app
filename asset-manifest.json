@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chakitg/form-app.git/static/css/main.d4ad90d3.css",
+    "main.js": "/chakitg/form-app.git/static/js/main.a83c366e.js",
+    "index.html": "/chakitg/form-app.git/index.html",
+    "main.d4ad90d3.css.map": "/chakitg/form-app.git/static/css/main.d4ad90d3.css.map",
+    "main.a83c366e.js.map": "/chakitg/form-app.git/static/js/main.a83c366e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4ad90d3.css",
+    "static/js/main.a83c366e.js"
+  ]
+}
